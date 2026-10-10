@@ -9,3 +9,7 @@ Bem vindo ao repositorio! Este é um repositorio de exemplo para demonstrar o us
 - Markdown
 
 ## Estrutura do Projeto
+
+## Adicionando conteudo remotamente
+
+## Como trabalhar com o Git
